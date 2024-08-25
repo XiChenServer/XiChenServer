@@ -1,7 +1,10 @@
 <!-- 标题部分，包含一个引人注目的引用 -->
-<div align="center">
-  <h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #ff69b4; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">👋 如果有花一般的春风，我还能再年轻吗？ 👋</h2>
+<div align="center" style="width: 100%; padding: 20px; background: linear-gradient(135deg, #ff7e5f, #feb47b); border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
+  <h2 style="color: white; font-family: 'Arial', sans-serif; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
+    👋 如果有花一般的春风，我还能再年轻吗？ 👋
+  </h2>
 </div>
+
 
 <!-- 动态波浪图片 -->
 <div align="center">
