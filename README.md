@@ -5,8 +5,9 @@
 
 <!-- 动态波浪图片 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="wave" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/geometry.svg" alt="geometry" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
+
 
 <!-- 力扣和CSDN统计数据，带有酷炫的徽章 -->
 <div align="center">
