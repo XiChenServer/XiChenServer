@@ -1,26 +1,15 @@
 <!-- 标题部分，包含一个引人注目的引用 -->
-<div align="center" style="width: 100%; height: 200px; background: linear-gradient(135deg, #ff0081, #ff8c00); border-radius: 15px; overflow: hidden; position: relative; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
-  <div style="position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle at 20% 20%, rgba(255, 255, 255, 0.4), transparent 60%), radial-gradient(circle at 80% 80%, rgba(255, 255, 255, 0.4), transparent 60%); background-size: 200% 200%; animation: pulse 10s infinite;">
-  </div>
-  <h2 style="color: white; font-family: 'Arial', sans-serif; font-weight: bold; position: relative; z-index: 1; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
-    👋 如果有花一般的春风，我还能再年轻吗？ 👋
-  </h2>
+<div align="center">
+  <h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #ff69b4; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">👋 如果有花一般的春风，我还能再年轻吗？ 👋</h2>
 </div>
-
-<style>
-@keyframes pulse {
-  0% { background-position: 0% 0%; }
-  50% { background-position: 100% 100%; }
-  100% { background-position: 0% 0%; }
-}
-</style>
 
 
 
 <!-- 动态波浪图片 -->
 <div align="center">
-  <img src="https://i.imgur.com/oc78sP5.png" alt="starry-sky" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="wave" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
+
 
 
 
