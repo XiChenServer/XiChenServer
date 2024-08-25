@@ -14,8 +14,8 @@
     <img src="https://stats.justsong.cn/api/leetcode?username=vigorous-elionvvu&cn=true" alt="LeetCode Stats" />
   </a>
   <br />
-  <a href="[https://blog.csdn.net/m0_74120645](https://blog.csdn.net/z3551906947?spm=1000.2115.3001.5343)">
-    <img src="https://stats.justsong.cn/api/csdn?id=m0_74120645" alt="CSDN Stats" />
+  <a href="[https://blog.csdn.net/z3551906947](https://blog.csdn.net/z3551906947?spm=1000.2115.3001.5343)">
+    <img src="https://stats.justsong.cn/api/csdn?id=z3551906947" alt="CSDN Stats" />
   </a>
 </div>
 
@@ -25,7 +25,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiChenServer&theme=tokyonight&hide_border=true&layout=compact" height="165px" alt="Top Languages" />
 </div>
 
-<!-- 个人博客链接，带有酷炫的徽章 -->
-<div align="center">
-  <h3>👋 访问我的博客：<a href="https://weiweiwait.top">weiweiwait.top</a> 👋</h3>
-</div>
