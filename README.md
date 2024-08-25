@@ -5,8 +5,9 @@
 
 <!-- 动态波浪图片 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/starry-sky.svg" alt="starry-sky" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://i.imgur.com/oc78sP5.png" alt="starry-sky" width="100%" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
 </div>
+
 
 
 
