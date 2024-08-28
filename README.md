@@ -1,6 +1,6 @@
 <!-- 标题部分，包含一个引人注目的引用 -->
 <div align="center">
-  <h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #ff69b4; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">👋 如果有花一般的春风，我还能再年轻吗？ 👋</h2>
+  <h2 style="font-family: 'Comic Sans MS', cursive, sans-serif; color: #ff69b4; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">👋 努力会有不一样的生活 👋</h2>
 </div>
 
 
